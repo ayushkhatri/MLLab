@@ -18,7 +18,7 @@ conversation = [
     "Bye",
     "Bye and have a nice day !!",
     "who is your owner?",
-    " Aakash"
+    " Ayush"
 ]
 trainer = ListTrainer(bot)
 trainer.train(conversation)
